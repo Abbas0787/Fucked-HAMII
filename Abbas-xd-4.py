@@ -76,23 +76,24 @@ vuln = '\x1b[32mVuln'
 os.system('clear')
 
 logo1 = """
- _____ _     _   _____                _    
-|  _  | |   | | /  __ \              | |   
-| | | | | __| | | /  \/_ __ __ _  ___| | __
-| | | | |/ _` | | |   | '__/ _` |/ __| |/ /
-\ \_/ / | (_| | | \__/\ | | (_| | (__|   < 
- \___/|_|\__,_|  \____/_|  \__,_|\___|_|\_\
-                                           
- > DEVELOPER     : HAMID MEER
- > FACEBOOK ID   : HAMID MEER'HAMII
- > WHATSAPP      : +923155912839
- > YOUTUBE       : HAMII WORLD
+ 
+                 
+╭━━━┳╮╱╭╮
+┃╭━╮┃┃╱┃┃
+┃┃╱┃┃╰━┫╰━┳━━┳━━╮
+┃╰━╯┃╭╮┃╭╮┃╭╮┃━━┫
+┃╭━╮┃╰╯┃╰╯┃╭╮┣━━┃
+╰╯╱╰┻━━┻━━┻╯╰┻━━╯                          
+ > DEVELOPER     : ABBAS DEEN 
+ > FACEBOOK ID   : محمد عباس
+ > WHATSAPP      : +923155334785
+ > YOUTUBE       :  Nothing
  > WARNING       : DON'T USE FOR ILLEGAL WORK        
  <=><=><=><=><=><=><=><=><=><=><=><=><=>
 """
 print logo1
-CorrectUsername = 'KING'
-CorrectPassword = 'HAMII'
+CorrectUsername = 'ABBAS'
+CorrectPassword = 'DEEN'
 loop = 'true'
 while loop == 'true':
     username = raw_input('\x1b[1;92m \x1b[1;94mUSERNAME \x1b[1;92m:\x1b[1;92m\n        ')
@@ -100,7 +101,7 @@ while loop == 'true':
         password = raw_input('\x1b[1;92m \x1b[1;93mPASSWORD \x1b[1;92m:\x1b[1;92m   \n     ')
         if password == CorrectPassword:
             print 
-            jalan (' WELCOME TO HAMII WORLD ')
+            jalan (' WELCOME TO ABBAS WORLD ')
             time.sleep(1)
             loop = 'false'
         else:
